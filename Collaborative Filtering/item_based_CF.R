@@ -1,5 +1,3 @@
-rm(list=ls(all = T))
-
 # 設定隨機種子
 set.seed(999)
 
